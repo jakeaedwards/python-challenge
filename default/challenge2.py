@@ -14,3 +14,4 @@ while 1:
 print(counts)
 
 # y t i e l a u q
+# equality
